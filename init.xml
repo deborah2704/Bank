@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<accounts>
+    <account type="StudentBankAccount">
+        <personalInfo>
+            <name>Katia Barak</name>
+            <id>1234567</id>
+            <phone>0523-555444</phone>
+            <email>katiab@sela.co.il</email>
+        </personalInfo>
+        <college>Sela</college>
+    </account>
+    <account type="BankAccount">
+        <personalInfo>
+            <name>Tal Cohen</name>
+            <id>22334455</id>
+            <phone>0546-222333</phone>
+            <email>talc@gamil.com</email>
+        </personalInfo>
+    </account>
+    <account type="BusinessBankAccount">
+        <personalInfo>
+            <name>Deborah Shoshana</name>
+            <id>7894561</id>
+            <phone>0582-666898</phone>
+            <email>deborah@gmail.com</email>
+        </personalInfo>
+        <business>Deborah Patisserie:  French bakery that specializes in pastries and sweets</business>
+    </account>
+</accounts>
